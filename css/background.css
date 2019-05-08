@@ -1,3 +1,46 @@
 body {
-    background-image: url(img/pool_table/__MACOSX/pool_table/._pool_table_@2X.png);
+background-image: url(img/pool_table/pool_table/pool_table.png);
+}
+/* div classes */
+.main {
+background-color: rgba(26, 140, 255, 0.8);
+border: .1em solid #009dff;
+display: flex;
+flex-direction: column;
+height: 55em;
+margin: 1%;
+padding-bottom: 1%;
+padding-top: 1%;
+width: 50%;
+}
+
+.lily {
+background-color: rgba(64, 255, 0, 0.85);
+border: .1em solid #30fc00;
+color: #ff0000;
+display: flex;
+height: 10%;
+font-size: 2em;
+margin: .2em;
+text-shadow: .02em .02em black;
+width: 50%;
+}
+
+.wood {
+background-color: rgba(153, 77, 0, 0.85);
+border: .1em solid #804000;
+color: #ff9900;
+display: flex;
+height: 10%;
+font-size: 2em;
+margin: .2em;
+text-shadow: .02em .02em black;
+width: 50%;
+}
+
+/* Row */
+
+.happy {
+display: flex;
+flex-direction: row;
 }
