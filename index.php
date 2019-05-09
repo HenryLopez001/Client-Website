@@ -7,7 +7,10 @@
 <title>Home</title>
 </head>
 <body>
-
+<div class="up">
+    <?php include 'header.php';?>
+</div>
+<div class="task">
 <div class="main">
  
  <div class="lily">
@@ -18,7 +21,7 @@
 </div>
  
 </div>
-
+    </div>
 
 </body>
 </html>
