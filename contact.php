@@ -17,7 +17,7 @@
 <div class="main">
 
 <div class="head1">
-<p>Contact Holder</p>
+<p>Contact Me</p>
 </div>
 
 <div class="lily">
@@ -25,7 +25,9 @@
 </div>
 
 <div class="wood">
-<p>Contact Information, Phone Number, Email, Etc.</p>
+<p>Phone Number: (559) 930-3109 <br>
+Email: valentin.lopez@me.com <br>
+</p>
 </div>
 </div>
 

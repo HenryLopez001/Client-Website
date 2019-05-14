@@ -19,7 +19,7 @@
 <img src="http://www.placehold.it/300x300" alt="">
 
 <div class="head1">
-<p>Business Title Holder</p>
+<p>Lopez Gardening</p>
 </div>
 
 <div class="lily">

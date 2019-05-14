@@ -17,11 +17,14 @@
 <div class="main">
 
 <div class="head1">
-<p>About Holder</p>
+<p>Personal/Work Information</p>
 </div>
 
+<div class="happy">
+<img src="http://www.placehold.it/250x150" alt=""> 
 <div class="lily">
-<img src="http://www.placehold.it/250x150" alt=""> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis consequatur ipsum sint, facilis, iusto, ab est minima, quia architecto maxime debitis unde a? Repellendus deserunt possimus, ducimus dicta tempore. Eum.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis consequatur ipsum sint, facilis, iusto, ab est minima, quia architecto maxime debitis unde a? Repellendus deserunt possimus, ducimus dicta tempore. Eum.</p>
+</div>
 </div>
 </div>
 

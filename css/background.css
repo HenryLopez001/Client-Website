@@ -1,10 +1,10 @@
 body {
-background-image: url(img/pool_table/pool_table/pool_table.png);
+background-color: rgba(77, 184, 255, 0.57);
 }
 /* div classes */
 .main {
 align-items: center;
-background-color: rgba(26, 140, 255, 0.8);
+background-color: rgba(57, 172, 57, 0.86);
 border: .1em solid #009dff;
 display: flex;
 flex-direction: column;
@@ -15,39 +15,41 @@ width: 80%;
 }
 
 .lily {
-background-color: rgba(64, 255, 0, 0.85);
-border: .1em solid #30fc00;
-color: #ff0000;
+background-color: #ffffff;
+border: .1em solid #ffffff;
+color: #ff9900;
 display: flex;
 height: auto;
 font-size: 2em;
 margin: .2em;
+padding: .2em;
 text-shadow: .02em .02em black;
 width: 50%;
 }
 
 .wood {
-background-color: rgba(153, 77, 0, 0.85);
-border: .1em solid #804000;
-color: #ff9900;
+background-color: rgba(153, 0, 255, 0.83);
+border: .1em solid #a31aff;
+color: #ffff66;
 display: flex;
 height: auto;
 font-size: 2em;
 margin: .2em;
-text-shadow: .02em .02em black;
+padding: .2em;
+text-shadow: .02em .02em #9900ff;
 width: 50%;
 }
 
 .head1 {
 justify-content: center;
-background-color: rgba(153, 77, 0, 0.85);
-border: .1em solid #804000;
-color: #ff9900;
+background-color: rgba(71, 0, 179, 0.82);
+border: .1em solid #03968b;
+color: #ffff00;
 display: flex;
 height: auto;
 font-size: 3em;
 margin: .2em;
-text-shadow: .02em .02em black;
+text-shadow: .02em .02em #000066;
 width: 65%;
 }
 
@@ -56,6 +58,7 @@ width: 65%;
 .happy {
 display: flex;
 flex-direction: row;
+justify-content: center;
 }
 
 /* Main */
@@ -67,9 +70,8 @@ flex-direction: column;
 
 /* Nav Bar */
 .up {
-background-color: #595959;
-border: .1em solid #595959;
-color: #2eb82e;
+background-color: #006600;
+border: .1em solid #008000;
 display: flex;
 flex-direction: row;
 font-size: 1.5em;
@@ -77,18 +79,20 @@ justify-content: space-around;
 width: 80%;
 }
 
+.up :visited {
+color: #ffff4d;
+}
+
 .up :hover {
-background-color: #2eb82e;
-color: #595959;
-width: 80%;
+color: #ffc0cb;
 }
 
 /* Footer */
 
 .foot {
-background-color: #595959;
-border: .1em solid #595959;
-color: #2eb82e;
+background-color: #006600;
+border: .1em solid #008000;
+color: #ffff4d;
 display: flex;
 flex-direction: row;
 font-size: 1.5em;
