@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   <link rel="stylesheet" href="css/background.css">
-   <link rel="stylesheet" href="js/java.js">
-    <meta charset="UTF-8">
-    <title>Contact</title>
+<link rel="stylesheet" href="css/background.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
+<link rel="stylesheet" href="js/java.js">
+<meta charset="UTF-8">
+<title>Contact</title>
 </head>
 <body>
 
@@ -21,7 +22,7 @@
 </div>
 
 <div class="lily">
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse unde eligendi accusantium aperiam architecto quam placeat, dolor impedit reprehenderit, doloremque enim temporibus, laborum natus delectus quod distinctio expedita qui sit.</p>
+<p>If you have any questions or are interested in Mr. Lopez's service, let him know by call, text message, or email.</p>
 </div>
 
 <div class="wood">

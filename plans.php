@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   <link rel="stylesheet" href="css/background.css">
-   <link rel="stylesheet" href="js/java.js">
-    <meta charset="UTF-8">
-    <title>Plans</title>
+<link rel="stylesheet" href="css/background.css">
+<link rel="stylesheet" href="js/java.js">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
+<meta charset="UTF-8">
+<title>Plans</title>
 </head>
 <body>
 
@@ -21,22 +22,37 @@
 
 <div class="lily">
 <form>
+<label for="firstname">
 First Name:
-<input type="text" name="firstname"><br><br>
+</label>
+<input type="text" name="firstname"><br>
+<label for="lastname">
 Last Name:
-<input type="text" name="lastname"><br><br>
+</label>
+<input type="text" name="lastname"><br>
+<label for="email">
 Email:
-<input type="text" name="email"><br><br>
+</label>
+<input type="text" name="email"><br>
+<label for="phonenumber">
 Phone Number:
-<input type="text" name="phonenumber"><br><br>
-Address: 
-<input type="text" name="address"> <br><br>
-1 Question <br>
-<input type="radio" name="yard">Front <input type="radio" name="yard">Back <input type="radio" name="yard">Both<br> <br>
-2 Question <br>
-<input type="radio" name="parts">Yards
-<input type="radio" name="parts">Bushes
-<input type="radio" name="parts">Trees <br>
+</label>
+<input type="text" name="phonenumber"><br>
+<label for="address">
+Address:
+</label> 
+<input type="text" name="address"> <br>
+<label for="yard">
+Which Yard do you Need Taken Care of? 
+</label><br>
+<input type="checkbox" name="yard">Front
+<input type="checkbox" name="yard">Back<br>
+<label for="parts">
+Which Type of Service do you Need?
+</label><br>
+<input type="checkbox" name="parts">Holder
+<input type="checkbox" name="parts">Bushes
+<input type="checkbox" name="parts">Trees <br>
 <input type="submit" value="submit">
 </form>
 </div>

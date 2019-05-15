@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="css/background.css">
-    <link rel="stylesheet" href="js/java.js">
-     <meta charset="UTF-8">
+<link rel="stylesheet" href="css/background.css">
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+<link rel="stylesheet" href="js/java.js">
+<meta charset="UTF-8">
 <title>Home</title>
 </head>
 <body>
