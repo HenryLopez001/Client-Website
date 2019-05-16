@@ -1,5 +1,5 @@
 body {
-background-color: rgba(77, 184, 255, 0.57);
+background-image: url(img/test6.jpg)
 }
 /* div classes */
 .main {
@@ -22,7 +22,7 @@ display: flex;
 height: auto;
 justify-content: center;
 font-family: 'Oswald', sans-serif;
-font-size: 2em;
+font-size: 1.7em;
 margin: .2em;
 padding: .2em;
 text-shadow: .02em .02em black;
@@ -36,7 +36,7 @@ color: #ffff66;
 display: flex;
 height: auto;
 font-family: 'Oswald', sans-serif;
-font-size: 2em;
+font-size: 1.7em;
 margin: .2em;
 padding: .2em;
 text-shadow: .02em .02em #9900ff;

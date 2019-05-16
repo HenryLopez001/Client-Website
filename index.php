@@ -24,7 +24,7 @@
 </div>
 
 <div class="lily">
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur voluptates laudantium cupiditate obcaecati iusto molestias, inventore quam unde hic quis quia fugiat reprehenderit, dolor debitis quae facilis laborum ducimus facere.</p>
+<p>I"m a Professional Gardener with 20 Years of Experience</p>
 </div>
 </div>
 

@@ -21,10 +21,14 @@
 <p>Personal/Work Information</p>
 </div>
 
+
+<img src="img/test3.jpg" alt=""> 
 <div class="happy">
-<img src="http://www.placehold.it/250x150" alt=""> 
 <div class="lily">
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis consequatur ipsum sint, facilis, iusto, ab est minima, quia architecto maxime debitis unde a? Repellendus deserunt possimus, ducimus dicta tempore. Eum.</p>
+<p>My Work Includes Many Different Services Such as <br> Maintenance Service <br> Usage of Regular Commercial Machinery for Lancare <br> Extra Service <br> Here is a List of Extra Services: Wedding Clean up, Trimming and Pruning, Flower Beds, Sprinkler Systems, Sprinkler Repair, Fertilization, etc</p> 
+</div>
+<div class="wood">
+<p>4 Season Service <br> Spring: In the Spring, I Plant Flowers in Gardens <br> Summer: <br> Fall: In the Fall I Put in Special Seeds That Will Help Your Grass During the Winter <br> Winter: I Will Also Put the Seeds in Yourd Yard Throughout Winter</p>
 </div>
 </div>
 </div>
