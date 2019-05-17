@@ -21,7 +21,7 @@
 </div>
 
 <div class="lily">
-<form>
+<form action="forms.php" method="post" target="_blank">
 <label for="firstname">
 First Name:
 </label>
@@ -50,10 +50,14 @@ Which Yard do you Need Taken Care of?
 <label for="parts">
 Which Type of Service do you Need?
 </label><br>
-<input type="checkbox" name="parts">Holder
+<input type="checkbox" name="parts">Mantince
 <input type="checkbox" name="parts">Bushes
-<input type="checkbox" name="parts">Trees <br>
-<input type="submit" value="submit">
+<input type="checkbox" name="parts">Trees 
+<input type="checkbox" name="parts">Sprinkler Repair/New
+<input type="checkbox" name="parts">Fertilization
+<input type="checkbox" name="parts">Plant Flowers
+<input type="checkbox" name="parts">Remove/Install New Grass<br>
+<input type="submit" value="Send">
 </form>
 </div>
 </div>

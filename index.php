@@ -17,12 +17,12 @@
 
 <div class="main">
 
-<img src="http://www.placehold.it/300x300" alt="">
+<img src="img/LOGO.jpg" alt="">
 
 <div class="head1">
 <p>Lopez Gardening</p>
 </div>
-
+<img src="img/test3.jpg" alt="">
 <div class="lily">
 <p>I"m a Professional Gardener with 20 Years of Experience</p>
 </div>
